@@ -7,6 +7,6 @@ import lombok.Data;
 @AllArgsConstructor
 public class ResponseDao {
 
-    private String lastName;
+    private String fullName;
 
 }
